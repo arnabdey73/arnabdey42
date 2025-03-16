@@ -62,7 +62,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  ```
+
+  .. ..
+
+  <!---
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -85,7 +88,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  ```
+      --->
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
